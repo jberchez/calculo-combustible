@@ -2,9 +2,8 @@ name: Actualizar precios de carburantes
 
 on:
   schedule:
-    # Todos los días a las 06:00 hora de España (05:00 UTC en horario de invierno)
     - cron: "0 5 * * *"
-  workflow_dispatch: {} # permite lanzarlo a mano desde la pestaña Actions
+  workflow_dispatch: {}
 
 permissions:
   contents: write
