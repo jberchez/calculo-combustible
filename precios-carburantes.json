@@ -1,11 +1,11 @@
 {
-  "actualizado": "2026-09-02T09:11:07.539Z",
-  "fecha_fuente": "02/09/2026 11:10:45",
-  "num_estaciones": 11464,
-  "gasolina95": 1.783,
-  "gasolina98": 1.945,
-  "gasoleoA": 1.771,
-  "gasoleoPremium": 1.859,
-  "biodiesel": 1.661,
+  "actualizado": "2026-09-03T09:18:28.408Z",
+  "fecha_fuente": "03/09/2026 11:17:57",
+  "num_estaciones": 11472,
+  "gasolina95": 1.796,
+  "gasolina98": 1.958,
+  "gasoleoA": 1.785,
+  "gasoleoPremium": 1.872,
+  "biodiesel": 1.742,
   "glp": 1.083
 }
